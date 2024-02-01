@@ -1,3 +1,4 @@
-# SOC577 Homework 1, Spring 2021
+# SOC577 Homework 1
 
-Please clone this repository to your computer and open hw1.Rmd using RStudio. Follow the instructions in the document to complete and submit the assignment.
+Please clone this repository to your computer (see course Github wiki for instructions) and open hw1.Rmd using RStudio. Follow the instructions in the document to complete and submit the 
+assignment.
